@@ -1,0 +1,6 @@
+finaldataset.csv
+processed_synth_dataset.csv
+processed_dataset.csv
+scaled_anomaly_dataset.npy
+scaler.npy
+synthetic_anomalous_data.csv
