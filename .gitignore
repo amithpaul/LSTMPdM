@@ -4,3 +4,4 @@ processed_dataset.csv
 scaled_anomaly_dataset.npy
 scaler.npy
 synthetic_anomalous_data.csv
+scaled_standard.npy
